@@ -48,7 +48,7 @@ Tenho interesse principalmente em **desenvolvimento de software, programação e
 
 |  Área |  Objetivo |
 |---|---|
-| ☕ Java | Evoluir em POO e desenvolvimento |
+| 🐍 python | Evoluir em python desenvolvimento |
 | 🗄️ Banco de Dados | Aprender SQL e modelagem |
 | 🌐 Desenvolvimento Web | Criar aplicações completas |
 | 📐 Engenharia de Software | Aplicar boas práticas |
