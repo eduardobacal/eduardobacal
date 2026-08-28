@@ -1,4 +1,4 @@
-#  Olá! Eu sou Eduardo Baçal
+# Eu sou Eduardo Baçal
 
 <div align="center">
 
