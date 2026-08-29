@@ -28,6 +28,15 @@ Tenho interesse principalmente em **desenvolvimento de software, programação e
 
 ---
 
+## 📜 Cursos e Certificações
+
+| Curso | Área |
+|---|---|
+| 💻 Informática Básica | Tecnologia |
+| 🤝 Relacionamento Interpessoal | Desenvolvimento Profissional |
+
+---
+
 ##  Tecnologias
 
 ###  Linguagens
